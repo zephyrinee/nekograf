@@ -1,7 +1,7 @@
 {
   "name": "nekograf",
-  "version": "2.1.0",
-  "description": "All-in-one Telegram Bot framework (Nekograf) by Zephyrine",
+  "version": "1.0.0",
+  "description": "Telegram Framework With More Advanced Features And Fairly Stable",
   "main": "src/index.js",
   "type": "commonjs",
   "license": "MIT",
