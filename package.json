@@ -1,0 +1,25 @@
+{
+  "name": "nekograf",
+  "version": "2.1.0",
+  "description": "All-in-one Telegram Bot framework (Nekograf) by Zephyrine",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "author": "Zephyrine",
+  "keywords": [
+    "telegram",
+    "bot",
+    "framework",
+    "nekograf",
+    "telegraf",
+    "node-telegram-bot-api"
+  ],
+  "scripts": {
+    "start": "node examples/nekograf.echo.js",
+    "example:ntba": "node examples/compat.ntba.echo.js",
+    "example:telegraf": "node examples/compat.telegraf.echo.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
