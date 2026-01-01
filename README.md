@@ -1,3 +1,7 @@
+<p align="left">
+  <b>⚒️ Code Snippet</b>
+</p>
+
 ```js
 const { Nekograf } = require("nekograf")
 
