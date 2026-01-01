@@ -21,6 +21,8 @@ bot.nekoBotOn("message", async (ctx) => {
 bot.nekoBotStart()
 ```
 
+---
+
 <p align="center">
   <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/main/images.png" />
 </p>
